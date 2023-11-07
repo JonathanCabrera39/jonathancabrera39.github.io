@@ -1,2 +1,1 @@
-# jonathancabrera39.github.io
-proyecto-HBO
+# Proyecto-HBO
